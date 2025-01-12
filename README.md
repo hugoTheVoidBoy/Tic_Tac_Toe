@@ -3,7 +3,7 @@
 
  To try the game, you have to have BlueJ (a Java compiler) on your computer. 
 
- Clone this file and run "package.bluej"
+ >Clone this file and run **package.bluej**
 
  This is a simple tic-tac-toe game made with Java in BlueJ compiler to familiarize myself with the Java GUI module. 
 
