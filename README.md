@@ -2,7 +2,7 @@
  Java game UI
 
  >To try the game, you have to have BlueJ (a Java compiler) on your computer. 
-
+ 
  Clone this repo and run **package.bluej**
 
 
